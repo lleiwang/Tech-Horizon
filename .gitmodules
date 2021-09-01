@@ -7,3 +7,15 @@
 [submodule "Github-Repo-Java/OnJava8"]
 	path = Github-Repo-Java/OnJava8
 	url = https://github.com/lleiwang/OnJava8.git
+[submodule "Github-Repo-Java/JavaFamily"]
+	path = Github-Repo-Java/JavaFamily
+	url = https://github.com/AobingJava/JavaFamily.git
+[submodule "Github-Repo-Java/jvm"]
+	path = Github-Repo-Java/jvm
+	url = https://github.com/doocs/jvm.git
+[submodule "Github-Repo-CS/Waking-Up"]
+	path = Github-Repo-CS/Waking-Up
+	url = https://github.com/wolverinn/Waking-Up.git
+[submodule "Github-Demo-Java/geektime-spring-family"]
+	path = Github-Demo-Java/geektime-spring-family
+	url = https://github.com/digitalsonic/geektime-spring-family.git
