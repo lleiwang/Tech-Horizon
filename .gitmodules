@@ -1,0 +1,9 @@
+[submodule "Github-Repo-Java/bestJavaer"]
+	path = Github-Repo-Java/bestJavaer
+	url = https://github.com/crisxuan/bestJavaer.git
+[submodule "Github-Repo-Java/advanced-java"]
+	path = Github-Repo-Java/advanced-java
+	url = https://github.com/doocs/advanced-java.git
+[submodule "Github-Repo-Java/OnJava8"]
+	path = Github-Repo-Java/OnJava8
+	url = https://github.com/lleiwang/OnJava8.git
