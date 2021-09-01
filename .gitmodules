@@ -19,3 +19,15 @@
 [submodule "Github-Demo-Java/geektime-spring-family"]
 	path = Github-Demo-Java/geektime-spring-family
 	url = https://github.com/digitalsonic/geektime-spring-family.git
+[submodule "Github-Repo-Java/JavaGuide"]
+	path = Github-Repo-Java/JavaGuide
+	url = https://github.com/Snailclimb/JavaGuide.git
+[submodule "Github-Repo-Java/LearningJDK"]
+	path = Github-Repo-Java/LearningJDK
+	url = https://github.com/kangjianwei/LearningJDK.git
+[submodule "Github-Demo-Java/SpringAll"]
+	path = Github-Demo-Java/SpringAll
+	url = https://github.com/wuyouzhuguli/SpringAll.git
+[submodule "Github-Demo-Java/SpringCloudLearning"]
+	path = Github-Demo-Java/SpringCloudLearning
+	url = https://github.com//forezp/SpringCloudLearning
